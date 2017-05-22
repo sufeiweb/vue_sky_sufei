@@ -1,0 +1,18 @@
+body,html,input,button,span,i,a,img,p,div,section,article,aside,header,nav,footer,ul,li,dl,dt,dd{
+  padding: 0;
+  margin: 0;
+  font-family: "微软雅黑";
+}
+body,html{
+  background: #f6f6f6;
+  height: 100%;
+  overflow: hidden;
+}
+body{
+  border:5px solid #000;
+  box-sizing: border-box;
+}
+span,i{display: block;}
+a{display: block; text-decoration: none; color:#333;}
+img{border:none;display: block;}
+ul li{list-style: none;}
